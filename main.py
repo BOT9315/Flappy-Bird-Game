@@ -17,7 +17,6 @@ if 'pygame' not in sys.modules:
     pygame.NOFRAME = 0
     pygame.SCALED = 0
     pygame.FULLSCREEN = 0
-
 # For IDE type checking - this helps IDEs recognize pygame
 # without affecting the actual code execution
 if False:  # This block is never executed
