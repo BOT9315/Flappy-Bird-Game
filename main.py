@@ -180,7 +180,6 @@ while running:
 				pipe_img = random.choice(im_list)
 				bg = random.choice([bg1, bg2])
 				
-			
 
 	clock.tick(FPS)
 	pygame.display.update()
