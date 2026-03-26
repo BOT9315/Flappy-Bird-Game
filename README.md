@@ -34,7 +34,7 @@ Navigate and click main.py to open the game in pydroid3, tap anywhere to start t
 Controls:
 * Tap on the screen to make the bird jump.
 
-## Contributingg
+## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
