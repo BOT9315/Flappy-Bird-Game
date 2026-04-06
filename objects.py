@@ -6,7 +6,6 @@ display_height = 0.80 * HEIGHT
 
 pygame.mixer.init()
 wing_fx = pygame.mixer.Sound('Sounds/wing.wav')
-
 class Grumpy:
 	def __init__(self, win):
 		self.win = win
