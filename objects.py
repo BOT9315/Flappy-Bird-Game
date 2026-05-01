@@ -4,7 +4,6 @@ import random
 SCREEN = WIDTH, HEIGHT = 288, 512
 display_height = 0.80 * HEIGHT
 
-
 pygame.mixer.init()
 wing_fx = pygame.mixer.Sound('Sounds/wing.wav')
 class Grumpy:
