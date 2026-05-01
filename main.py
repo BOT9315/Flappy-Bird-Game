@@ -1,4 +1,5 @@
 import sys
+
 try:
     import pygame
     # Try to access a pygame attribute to verify it's working
