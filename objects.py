@@ -1,6 +1,5 @@
 import pygame
 import random
-
 SCREEN = WIDTH, HEIGHT = 288, 512
 display_height = 0.80 * HEIGHT
 
