@@ -26,7 +26,6 @@ class Grumpy:
 			self.rect.y += int(self.vel)
 		
 		if self.alive:
-			
 			# jump
 			if pygame.mouse.get_pressed()[0] == 1 and not self.jumped:
 				wing_fx.play()
